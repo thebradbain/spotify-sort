@@ -5,6 +5,7 @@ A (highly unpythonic) Python script to sort a Spotify playlist's songs by their 
 ## To Install 
 
 `git clone`
+
 `pip install -r requirements.txt`
 
 ## To Run
