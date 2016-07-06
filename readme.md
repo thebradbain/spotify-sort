@@ -4,9 +4,9 @@ A (highly unpythonic) Python script to sort a Spotify playlist's songs by their 
 
 ## Dependencies
 
-* scikit-learn - straightforward machine learning library built on top of numpy
-* numpy
-* pandas
+* [scikit-learn](http://scikit-learn.org/stable/index.html)
+* [numpy](http://www.numpy.org/)
+* [pandas](http://pandas.pydata.org/)
 
 ## To Run
 
