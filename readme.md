@@ -2,11 +2,10 @@
 
 A (highly unpythonic) Python script to sort a Spotify playlist's songs by their musical attributes using unsupervised learning. 
 
-## Dependencies
+## To Install 
 
-* [scikit-learn](http://scikit-learn.org/stable/index.html)
-* [numpy](http://www.numpy.org/)
-* [pandas](http://pandas.pydata.org/)
+`git clone`
+`pip install -r requirements.txt`
 
 ## To Run
 
